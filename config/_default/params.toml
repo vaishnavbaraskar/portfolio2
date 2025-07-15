@@ -1,0 +1,113 @@
+colorScheme = "noir"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+enableSearch = true
+enableCodeCopy = false
+replyByEmail = false
+disableImageOptimization = false
+disableImageOptimizationMD = false
+disableTextInHeader = false
+fingerprintAlgorithm = "sha512"
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+firebase = { }
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
+rssnext = { }
+advertisement = { }
+smartTOCHideUnfocusedChildren = "Enable"
+defaultBackgroundImage = "background.jpg"
+highlightCurrentMenuArea = "Enable"
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+showRecent = "Enable"
+showRecentItems = "18"
+showMoreLink = "Disable"
+showMoreLinkDest = "/ReverseEngineering/"
+cardView = "Enable"
+cardViewScreenWidth = "Enable"
+layoutBackgroundBlur = "Enable"
+disableHeroImageFilter = false
+homepageImage = "background.jpg"
+
+[article]
+showDate = "Show"
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = false
+showAuthor = "Show"
+showHero = "Show"
+layoutBackgroundBlur = ""
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = "Hide"
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = "Show"
+invertPagination = false
+showReadingTime = "Show"
+showTableOfContents = "showTableOfContents"
+showTaxonomies = "hide"
+showCategoryOnly = false
+showAuthorsBadges = false
+showWordCount = true
+showZenMode = false
+heroStyle = "thumbAndbackground"
+showRelatedContent = "showRelatedContent"
+relatedContentLimit = ""
+
+[list]
+showHero = "hide"
+layoutBackgroundBlur = false
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = "hide"
+showSummary = false
+showViews = false
+showLikes = false
+showTableOfContents = ""
+showCards = "showCards"
+orderByWeight = false
+groupByYear = false
+cardView = "cardView"
+cardViewScreenWidth = false
+constrainItemsWidth = "constrainItemsWidth"
+heroStyle = "thumbAndBackground"
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false

@@ -1,0 +1,40 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Vaishnav Baraskar"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo.png"
+secondaryLogo = "logo.png"
+description = "Persnoal Writeups Page for Cybersecurity Enthusiasts."
+
+[[params.author.links]]
+bluesky = ""
+
+[[params.author.links]]
+codepen = ""
+
+[[params.author.links]]
+docker = ""
+
+[[params.author.links]]
+dribbble = ""
+
+[[params.author.links]]
+email = ""
+
+[[params.author.links]]
+envelope = ""
+
+[[params.author.links]]
+eye = ""
+
+["params.author"]
+name = "Vaishnav Baraskar"
+image = "me.png"
+headline = "Penetration Tester @ Freelancer"

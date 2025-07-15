@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stack Overflow on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/stack-overflow/</link>
+    <description>Recent content in Stack Overflow on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Overflow in Silence: Stack Smash in MedBoard Log Viewer (x64)</title>
+      <link>http://localhost:55360/reverseengineering/medboard/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/medboard/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/medboard/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Copy, Paste, Exploit: Buffer Overflow in EduGrade Import Engine</title>
+      <link>http://localhost:55360/reverseengineering/edugrade/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/edugrade/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/edugrade/feature.png" />
+    </item>
+    
+    <item>
+      <title>Escape Protocols: Get Out Series Reversals – BSidesSF 2023</title>
+      <link>http://localhost:55360/capturetheflag/getoutseries/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/getoutseries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/getoutseries/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

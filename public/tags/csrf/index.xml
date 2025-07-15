@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSRF on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/csrf/</link>
+    <description>Recent content in CSRF on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/csrf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#34;PetCare&#34; – CSRF in the Admin Panel: When One Click Made You an Admin</title>
+      <link>http://localhost:55360/bugbounty/petcare/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/petcare/</guid>
+      <description>A simple POST request without CSRF protection allowed me to trick a PetCare admin into granting me admin privileges. This writeup dives into the exploitation steps, mental process, root cause, and patching of a high-risk vulnerability in their internal panel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/petcare/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DLL Injection on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/dll-injection/</link>
+    <description>Recent content in DLL Injection on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/dll-injection/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Phantom Libraries: DLL Hijacking in OfficePort Scheduler</title>
+      <link>http://localhost:55360/reverseengineering/officeport/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/officeport/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/officeport/feature.png" />
+    </item>
+    
+    <item>
+      <title>Signed Once, Loaded Twice: Plugin Signature Bypass in CodeWorks IDE</title>
+      <link>http://localhost:55360/reverseengineering/codeworks/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/codeworks/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/codeworks/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/</link>
+    <description>Recent content in Tags on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blind Decryption</title>
+      <link>http://localhost:55360/tags/blind-decryption/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/blind-decryption/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Challenge Solving</title>
+      <link>http://localhost:55360/tags/challenge-solving/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/challenge-solving/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptanalysis</title>
+      <link>http://localhost:55360/tags/cryptanalysis/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/cryptanalysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crypto</title>
+      <link>http://localhost:55360/tags/crypto/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/crypto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CTF</title>
+      <link>http://localhost:55360/tags/ctf/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CTF Writeup</title>
+      <link>http://localhost:55360/tags/ctf-writeup/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ctf-writeup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SAS CTF</title>
+      <link>http://localhost:55360/tags/sas-ctf/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/sas-ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SAS CTF 2025</title>
+      <link>http://localhost:55360/tags/sas-ctf-2025/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/sas-ctf-2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vaishnav Baraskar</title>
+      <link>http://localhost:55360/tags/vaishnav-baraskar/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/vaishnav-baraskar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2025</title>
+      <link>http://localhost:55360/tags/2025/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API Security</title>
+      <link>http://localhost:55360/tags/api-security/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/api-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>APISEC-CON</title>
+      <link>http://localhost:55360/tags/apisec-con/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/apisec-con/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Broken Access Control</title>
+      <link>http://localhost:55360/tags/broken-access-control/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/broken-access-control/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IDOR</title>
+      <link>http://localhost:55360/tags/idor/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/idor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SSTI</title>
+      <link>http://localhost:55360/tags/ssti/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ssti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Template Injection</title>
+      <link>http://localhost:55360/tags/template-injection/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/template-injection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Exploitation</title>
+      <link>http://localhost:55360/tags/web-exploitation/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/web-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Function Pointer Hijack</title>
+      <link>http://localhost:55360/tags/function-pointer-hijack/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/function-pointer-hijack/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Heap Exploitation</title>
+      <link>http://localhost:55360/tags/heap-exploitation/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/heap-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>http://localhost:55360/tags/reverse-engineering/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/reverse-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Use-After-Free</title>
+      <link>http://localhost:55360/tags/use-after-free/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/use-after-free/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>X64</title>
+      <link>http://localhost:55360/tags/x64/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/x64/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buffer Exploitation</title>
+      <link>http://localhost:55360/tags/buffer-exploitation/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/buffer-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shellcode</title>
+      <link>http://localhost:55360/tags/shellcode/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/shellcode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stack Overflow</title>
+      <link>http://localhost:55360/tags/stack-overflow/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/stack-overflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1753 CTF</title>
+      <link>http://localhost:55360/tags/1753-ctf/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/1753-ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authentication Bypass</title>
+      <link>http://localhost:55360/tags/authentication-bypass/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/authentication-bypass/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bcrypt</title>
+      <link>http://localhost:55360/tags/bcrypt/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/bcrypt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crypto Logic</title>
+      <link>http://localhost:55360/tags/crypto-logic/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/crypto-logic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Password Hashing</title>
+      <link>http://localhost:55360/tags/password-hashing/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/password-hashing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>http://localhost:55360/tags/php/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/php/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>EduGrade</title>
+      <link>http://localhost:55360/tags/edugrade/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/edugrade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strcpy</title>
+      <link>http://localhost:55360/tags/strcpy/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/strcpy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows X64</title>
+      <link>http://localhost:55360/tags/windows-x64/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/windows-x64/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open Redirect</title>
+      <link>http://localhost:55360/tags/open-redirect/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/open-redirect/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phishing</title>
+      <link>http://localhost:55360/tags/phishing/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/phishing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Slack</title>
+      <link>http://localhost:55360/tags/slack/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/slack/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Subdomain</title>
+      <link>http://localhost:55360/tags/subdomain/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/subdomain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BookPro Reader</title>
+      <link>http://localhost:55360/tags/bookpro-reader/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/bookpro-reader/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Metadata Parsing</title>
+      <link>http://localhost:55360/tags/metadata-parsing/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/metadata-parsing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Zip Exploitation</title>
+      <link>http://localhost:55360/tags/zip-exploitation/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/zip-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DOM Clobbering</title>
+      <link>http://localhost:55360/tags/dom-clobbering/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/dom-clobbering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PDF Sorcery</title>
+      <link>http://localhost:55360/tags/pdf-sorcery/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/pdf-sorcery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SSRF</title>
+      <link>http://localhost:55360/tags/ssrf/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ssrf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Challenge Writeup</title>
+      <link>http://localhost:55360/tags/challenge-writeup/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/challenge-writeup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CTF 2024</title>
+      <link>http://localhost:55360/tags/ctf-2024/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ctf-2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Extraction</title>
+      <link>http://localhost:55360/tags/data-extraction/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/data-extraction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>http://localhost:55360/tags/digital-forensics/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/digital-forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>File Recovery</title>
+      <link>http://localhost:55360/tags/file-recovery/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/file-recovery/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forensics</title>
+      <link>http://localhost:55360/tags/forensics/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PointerOverflow</title>
+      <link>http://localhost:55360/tags/pointeroverflow/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/pointeroverflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iron CTF</title>
+      <link>http://localhost:55360/tags/iron-ctf/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/iron-ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JWT</title>
+      <link>http://localhost:55360/tags/jwt/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/jwt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Token Manipulation</title>
+      <link>http://localhost:55360/tags/token-manipulation/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/token-manipulation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Security</title>
+      <link>http://localhost:55360/tags/web-security/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/web-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Binary Exploitation</title>
+      <link>http://localhost:55360/tags/binary-exploitation/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/binary-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB</title>
+      <link>http://localhost:55360/tags/htb/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/htb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB University</title>
+      <link>http://localhost:55360/tags/htb-university/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/htb-university/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:55360/tags/cryptography/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/cryptography/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HITCON</title>
+      <link>http://localhost:55360/tags/hitcon/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/hitcon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Protocol Exploitation</title>
+      <link>http://localhost:55360/tags/protocol-exploitation/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/protocol-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Zero-Knowledge Proof</title>
+      <link>http://localhost:55360/tags/zero-knowledge-proof/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/zero-knowledge-proof/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ZKPoF</title>
+      <link>http://localhost:55360/tags/zkpof/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/zkpof/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DLL Injection</title>
+      <link>http://localhost:55360/tags/dll-injection/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/dll-injection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Local Execution</title>
+      <link>http://localhost:55360/tags/local-execution/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/local-execution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OfficePort</title>
+      <link>http://localhost:55360/tags/officeport/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/officeport/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows 11</title>
+      <link>http://localhost:55360/tags/windows-11/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/windows-11/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alg:none</title>
+      <link>http://localhost:55360/tags/algnone/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/algnone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Burp Suite</title>
+      <link>http://localhost:55360/tags/burp-suite/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/burp-suite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:55360/tags/automation/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/automation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Brute Force</title>
+      <link>http://localhost:55360/tags/brute-force/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/brute-force/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Google Forms</title>
+      <link>http://localhost:55360/tags/google-forms/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/google-forms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LA CTF</title>
+      <link>http://localhost:55360/tags/la-ctf/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/la-ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>http://localhost:55360/tags/misc/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/misc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Abuse</title>
+      <link>http://localhost:55360/tags/web-abuse/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/web-abuse/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Log Poisoning</title>
+      <link>http://localhost:55360/tags/log-poisoning/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/log-poisoning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SQLi</title>
+      <link>http://localhost:55360/tags/sqli/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/sqli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>User-Agent</title>
+      <link>http://localhost:55360/tags/user-agent/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/user-agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Desktop Clients</title>
+      <link>http://localhost:55360/tags/desktop-clients/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/desktop-clients/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Heap Metadata</title>
+      <link>http://localhost:55360/tags/heap-metadata/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/heap-metadata/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UAF</title>
+      <link>http://localhost:55360/tags/uaf/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/uaf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows X86</title>
+      <link>http://localhost:55360/tags/windows-x86/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/windows-x86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Driver Exploitation</title>
+      <link>http://localhost:55360/tags/driver-exploitation/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/driver-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kernel RCE</title>
+      <link>http://localhost:55360/tags/kernel-rce/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/kernel-rce/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Clickjacking</title>
+      <link>http://localhost:55360/tags/clickjacking/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/clickjacking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CSP</title>
+      <link>http://localhost:55360/tags/csp/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/csp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trello</title>
+      <link>http://localhost:55360/tags/trello/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/trello/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Heap Corruption</title>
+      <link>http://localhost:55360/tags/heap-corruption/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/heap-corruption/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privilege Escalation</title>
+      <link>http://localhost:55360/tags/privilege-escalation/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/privilege-escalation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RPC</title>
+      <link>http://localhost:55360/tags/rpc/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/rpc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BlackHat MEA</title>
+      <link>http://localhost:55360/tags/blackhat-mea/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/blackhat-mea/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CTF 2023</title>
+      <link>http://localhost:55360/tags/ctf-2023/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ctf-2023/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Disk Forensics</title>
+      <link>http://localhost:55360/tags/disk-forensics/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/disk-forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>File Analysis</title>
+      <link>http://localhost:55360/tags/file-analysis/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/file-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Memory Dump</title>
+      <link>http://localhost:55360/tags/memory-dump/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/memory-dump/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Delegatecall</title>
+      <link>http://localhost:55360/tags/delegatecall/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/delegatecall/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exploit Dev</title>
+      <link>http://localhost:55360/tags/exploit-dev/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/exploit-dev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fee-on-Transfer</title>
+      <link>http://localhost:55360/tags/fee-on-transfer/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/fee-on-transfer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paradigm CTF</title>
+      <link>http://localhost:55360/tags/paradigm-ctf/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/paradigm-ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Contract Security</title>
+      <link>http://localhost:55360/tags/smart-contract-security/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/smart-contract-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Solidity</title>
+      <link>http://localhost:55360/tags/solidity/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/solidity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stored XSS</title>
+      <link>http://localhost:55360/tags/stored-xss/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/stored-xss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SVG</title>
+      <link>http://localhost:55360/tags/svg/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/svg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TaskMaster</title>
+      <link>http://localhost:55360/tags/taskmaster/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/taskmaster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>YesWeHack</title>
+      <link>http://localhost:55360/tags/yeswehack/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/yeswehack/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Named Pipe</title>
+      <link>http://localhost:55360/tags/named-pipe/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/named-pipe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stack Exploit</title>
+      <link>http://localhost:55360/tags/stack-exploit/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/stack-exploit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buffer Overflow</title>
+      <link>http://localhost:55360/tags/buffer-overflow/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/buffer-overflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legacy Systems</title>
+      <link>http://localhost:55360/tags/legacy-systems/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/legacy-systems/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ROP</title>
+      <link>http://localhost:55360/tags/rop/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/rop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DownUnderCTF</title>
+      <link>http://localhost:55360/tags/downunderctf/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/downunderctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DUCTF</title>
+      <link>http://localhost:55360/tags/ductf/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ductf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Protocol Analysis</title>
+      <link>http://localhost:55360/tags/protocol-analysis/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/protocol-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Secure Communication</title>
+      <link>http://localhost:55360/tags/secure-communication/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/secure-communication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>EIP Control</title>
+      <link>http://localhost:55360/tags/eip-control/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/eip-control/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Format String</title>
+      <link>http://localhost:55360/tags/format-string/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/format-string/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shell Execution</title>
+      <link>http://localhost:55360/tags/shell-execution/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/shell-execution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows XP</title>
+      <link>http://localhost:55360/tags/windows-xp/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/windows-xp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Function Pointer Overwrite</title>
+      <link>http://localhost:55360/tags/function-pointer-overwrite/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/function-pointer-overwrite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Insecure Deserialization</title>
+      <link>http://localhost:55360/tags/insecure-deserialization/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/insecure-deserialization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coupon Abuse</title>
+      <link>http://localhost:55360/tags/coupon-abuse/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/coupon-abuse/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Race Condition</title>
+      <link>http://localhost:55360/tags/race-condition/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/race-condition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Threading</title>
+      <link>http://localhost:55360/tags/threading/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/threading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Timing Attack</title>
+      <link>http://localhost:55360/tags/timing-attack/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/timing-attack/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Uber</title>
+      <link>http://localhost:55360/tags/uber/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/uber/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kernel Exploits</title>
+      <link>http://localhost:55360/tags/kernel-exploits/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/kernel-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Signed Drivers</title>
+      <link>http://localhost:55360/tags/signed-drivers/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/signed-drivers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Token Stealing</title>
+      <link>http://localhost:55360/tags/token-stealing/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/token-stealing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mixed Challenges</title>
+      <link>http://localhost:55360/tags/mixed-challenges/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/mixed-challenges/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NahamCon</title>
+      <link>http://localhost:55360/tags/nahamcon/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/nahamcon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwn</title>
+      <link>http://localhost:55360/tags/pwn/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/pwn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:55360/tags/web/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TOCTOU</title>
+      <link>http://localhost:55360/tags/toctou/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/toctou/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OAuth</title>
+      <link>http://localhost:55360/tags/oauth/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/oauth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Twitter API</title>
+      <link>http://localhost:55360/tags/twitter-api/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/twitter-api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stack Exploits</title>
+      <link>http://localhost:55360/tags/stack-exploits/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/stack-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BSidesSF</title>
+      <link>http://localhost:55360/tags/bsidessf/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/bsidessf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CVE-2023-28502</title>
+      <link>http://localhost:55360/tags/cve-2023-28502/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/cve-2023-28502/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CVE-2023-28503</title>
+      <link>http://localhost:55360/tags/cve-2023-28503/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/cve-2023-28503/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RE</title>
+      <link>http://localhost:55360/tags/re/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/re/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Admin Panel</title>
+      <link>http://localhost:55360/tags/admin-panel/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/admin-panel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CSRF</title>
+      <link>http://localhost:55360/tags/csrf/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/csrf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML Exploitation</title>
+      <link>http://localhost:55360/tags/html-exploitation/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/html-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authorization</title>
+      <link>http://localhost:55360/tags/authorization/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/authorization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bugcrowd</title>
+      <link>http://localhost:55360/tags/bugcrowd/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/bugcrowd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>File Disclosure</title>
+      <link>http://localhost:55360/tags/file-disclosure/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/file-disclosure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Binary Patching</title>
+      <link>http://localhost:55360/tags/binary-patching/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/binary-patching/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dynamic Debugging</title>
+      <link>http://localhost:55360/tags/dynamic-debugging/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/dynamic-debugging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flare-On</title>
+      <link>http://localhost:55360/tags/flare-on/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/flare-on/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ghidra</title>
+      <link>http://localhost:55360/tags/ghidra/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ghidra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Static Analysis</title>
+      <link>http://localhost:55360/tags/static-analysis/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/static-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>X86</title>
+      <link>http://localhost:55360/tags/x86/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/x86/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Disk Image</title>
+      <link>http://localhost:55360/tags/disk-image/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/disk-image/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PyInstaller</title>
+      <link>http://localhost:55360/tags/pyinstaller/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/pyinstaller/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python RE</title>
+      <link>http://localhost:55360/tags/python-re/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/python-re/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ransomware</title>
+      <link>http://localhost:55360/tags/ransomware/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/ransomware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>XOR Decryption</title>
+      <link>http://localhost:55360/tags/xor-decryption/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/tags/xor-decryption/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

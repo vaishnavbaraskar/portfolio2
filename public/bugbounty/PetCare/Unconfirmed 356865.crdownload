@@ -1,0 +1,164 @@
+
+---
+title: "Puppy Eyes & Admin Privileges: How a CSRF Bug Let Me Hijack PetCare’s Backend"
+description: "This wasn't just a cross-site request forgery—it was a full-on admin account conjured out of nowhere. Here's how one HTML form almost became the keys to the kingdom."
+date: '2023-03-16'
+categories: ["Bug Bounty Tales"]
+tags: ["CSRF", "Admin Access", "YesWeHack"]
+header:
+  image: "/images/petcare-csrf-banner.jpg"
+  caption: "One forged request to rule them all."
+---
+
+## Prologue — Dogs, Dashboards, and Danger
+
+Late one evening, I found myself browsing a sleek pet care web platform. A friend had used PetCare to schedule a vet visit, and I noticed something peculiar while watching network requests on their admin panel demo.
+
+Most people see adorable icons and pastel palettes when exploring pet websites. I saw something different.
+
+**I saw a missing CSRF token.**
+
+This was no ordinary pet project. Behind its lovable UI was a backend wide open to exploitation.
+
+---
+
+## Chapter 1: The Wagging Tail of Curiosity
+
+The target URL:  
+`https://petcare.com/admin/create_user`
+
+The endpoint was for user creation—used by admins to onboard team members.
+
+**What caught my eye?** There was no CSRF token in the POST form.
+
+In modern web apps, this is a cardinal sin. Especially in admin panels.
+
+I opened DevTools, toggled through the form network tab again, and ran a mental checklist:
+
+- ✅ Uses POST? Yes.  
+- ❌ CSRF token? None visible.  
+- ✅ Session cookies? Yes, automatically sent.  
+- ❌ Origin or referer checks? Nada.
+
+*“This could work…”*
+
+---
+
+## Chapter 2: Forging the Treat
+
+Time to create a fake HTML page. It looked innocent—harmless, even.
+
+```html
+<form action="https://petcare.com/admin/create_user" method="POST">
+  <input type="hidden" name="username" value="hacker">
+  <input type="hidden" name="password" value="pwned123">
+  <input type="hidden" name="role" value="admin">
+</form>
+<script>document.forms[0].submit();</script>
+```
+
+This script would auto-submit when any logged-in admin visited the page. No clicks needed.
+
+If they were authenticated (which they almost always are), this silent POST request would land—and **create a new admin account**.
+
+I was stunned.
+
+---
+
+## Chapter 3: Click Once, Rule Twice
+
+I uploaded the payload to a test page and sent it to a secondary browser where I was logged into the PetCare admin panel.
+
+One visit. Boom.
+
+I refreshed `/admin/users` and there it was:  
+**Username: hacker**  
+**Role: admin**
+
+My mind spun.
+
+> "If I were a real attacker, I could now login directly and manage the entire platform—schedules, vets, payments, user records. Everything."
+
+It was terrifyingly simple.
+
+---
+
+## Chapter 4: Expanding the Impact
+
+Once I verified the exploit, I tested different payloads:
+
+- **Non-admin users** — Didn’t work. The endpoint was restricted to admins.
+- **POST via JavaScript fetch?** — Blocked by CORS. But browser form submission didn’t need JS or CORS.
+- **Can I assign roles dynamically?** — Yes. The `role` field was not validated server-side.
+
+At this point, the implications were massive:
+
+- Rogue admin account.
+- Full dashboard access.
+- No alerts. No logs. Just invisible control.
+
+---
+
+## Chapter 5: The Quiet Report
+
+I documented everything:
+
+- Payload used.
+- Screenshots before/after.
+- Step-by-step setup.
+- Video recording of exploitation.
+
+Reported via **YesWeHack**.
+
+> They responded within 24 hours. Acknowledged the issue. And released a fix within 3 days.
+
+Patch:  
+- CSRF tokens added to all admin endpoints.  
+- Role field now strictly validated.  
+- CSP improved.  
+
+Bounty: **$25**  
+(Not much—but hey, it was the easiest 25 bucks I’ve ever made.)
+
+---
+
+## Final Thoughts: Why This Matters
+
+A simple CSRF vulnerability inside an admin panel is like leaving a master key under the doormat.
+
+The scary part? Most users wouldn’t even notice it. There’s no flash, no error messages, no indicators. But one forged request could mean **total takeover**.
+
+**What I learned:**
+
+- Don’t underestimate basic bugs. Even a humble CSRF can grant elite access.
+- Always validate roles and permissions server-side.
+- CSRF tokens are non-negotiable in any secure web app.
+
+This was my **fourth bounty**, but the most eye-opening so far.
+
+All it took was one innocent-looking HTML form.
+
+**Security isn’t just about preventing the big hacks—**  
+**It’s about closing the tiny cracks that let intruders slip through unnoticed.**
+
+---
+
+## Timeline
+
+- **March 16, 2023** — Discovered lack of CSRF on admin panel
+- **March 17, 2023** — Built working PoC + verified
+- **March 17, 2023** — Submitted to YesWeHack
+- **March 18, 2023** — Acknowledged and triaged
+- **March 19, 2023** — Patch deployed
+- **March 22, 2023** — Bounty awarded
+
+---
+
+## Disclosure Summary
+
+- **Platform**: YesWeHack  
+- **Target**: https://petcare.com  
+- **Bug Type**: CSRF → Admin Account Creation  
+- **Impact**: Admin Privilege Escalation  
+- **Severity**: High (CVSS: 8.0)  
+- **Bounty**: $25  

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/categories/</link>
+    <description>Recent content in Categories on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reverse Engineering Diaries</title>
+      <link>http://localhost:55360/categories/reverse-engineering-diaries/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/reverse-engineering-diaries/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crypto</title>
+      <link>http://localhost:55360/categories/crypto/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/crypto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CTF Writeups</title>
+      <link>http://localhost:55360/categories/ctf-writeups/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/ctf-writeups/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Exploitation</title>
+      <link>http://localhost:55360/categories/web-exploitation/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/web-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Buffer Overflows</title>
+      <link>http://localhost:55360/categories/buffer-overflows/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/buffer-overflows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Memory Exploits</title>
+      <link>http://localhost:55360/categories/memory-exploits/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/memory-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bug Bounty Tales</title>
+      <link>http://localhost:55360/categories/bug-bounty-tales/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/bug-bounty-tales/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>http://localhost:55360/categories/digital-forensics/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/digital-forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Midnight Security Musings</title>
+      <link>http://localhost:55360/categories/midnight-security-musings/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/midnight-security-musings/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DLL Hijacking</title>
+      <link>http://localhost:55360/categories/dll-hijacking/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/dll-hijacking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Persistence</title>
+      <link>http://localhost:55360/categories/persistence/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/persistence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bug Bounty Writeups</title>
+      <link>http://localhost:55360/categories/bug-bounty-writeups/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/bug-bounty-writeups/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Weekend Bug Bounties</title>
+      <link>http://localhost:55360/categories/weekend-bug-bounties/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/weekend-bug-bounties/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Heap Corruption</title>
+      <link>http://localhost:55360/categories/heap-corruption/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/heap-corruption/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kernel Exploits</title>
+      <link>http://localhost:55360/categories/kernel-exploits/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/kernel-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Race Conditions</title>
+      <link>http://localhost:55360/categories/race-conditions/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/race-conditions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://localhost:55360/categories/security/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Vulnerabilities</title>
+      <link>http://localhost:55360/categories/web-vulnerabilities/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/web-vulnerabilities/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Heap Overflow Exploits</title>
+      <link>http://localhost:55360/categories/heap-overflow-exploits/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/heap-overflow-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:55360/categories/blockchain/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/blockchain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Contracts</title>
+      <link>http://localhost:55360/categories/smart-contracts/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/smart-contracts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bug Bounty</title>
+      <link>http://localhost:55360/categories/bug-bounty/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/bug-bounty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Security</title>
+      <link>http://localhost:55360/categories/web-security/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/web-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>XSS Chronicles</title>
+      <link>http://localhost:55360/categories/xss-chronicles/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/xss-chronicles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Privilege Escalation</title>
+      <link>http://localhost:55360/categories/privilege-escalation/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/privilege-escalation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stack Overflow</title>
+      <link>http://localhost:55360/categories/stack-overflow/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/stack-overflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ROP Exploits</title>
+      <link>http://localhost:55360/categories/rop-exploits/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/rop-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Format String Exploits</title>
+      <link>http://localhost:55360/categories/format-string-exploits/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/format-string-exploits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deserialization</title>
+      <link>http://localhost:55360/categories/deserialization/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/deserialization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exploit Development</title>
+      <link>http://localhost:55360/categories/exploit-development/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/exploit-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API Exploitation</title>
+      <link>http://localhost:55360/categories/api-exploitation/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/api-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Concurrency Vulnerabilities</title>
+      <link>http://localhost:55360/categories/concurrency-vulnerabilities/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/concurrency-vulnerabilities/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Security Research</title>
+      <link>http://localhost:55360/categories/security-research/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/security-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kernel Exploitation</title>
+      <link>http://localhost:55360/categories/kernel-exploitation/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/kernel-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Binary Exploitation</title>
+      <link>http://localhost:55360/categories/binary-exploitation/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/binary-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plugin Security</title>
+      <link>http://localhost:55360/categories/plugin-security/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/plugin-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authentication</title>
+      <link>http://localhost:55360/categories/authentication/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/authentication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Exploitation</title>
+      <link>http://localhost:55360/categories/exploitation/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>http://localhost:55360/categories/reverse-engineering/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/reverse-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>First Bounty</title>
+      <link>http://localhost:55360/categories/first-bounty/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/first-bounty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forensics</title>
+      <link>http://localhost:55360/categories/forensics/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/categories/forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

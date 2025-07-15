@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF Writeups on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/categories/ctf-writeups/</link>
+    <description>Recent content in CTF Writeups on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/categories/ctf-writeups/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Entropy Overload — Bcrypt Length Limits in &#39;Entropyyyy…&#39; (1753 CTF 2025)</title>
+      <link>http://localhost:55360/capturetheflag/entropy/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/entropy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/entropy/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Delegatecall Drains &amp; Solidity Sleight — Paradigm CTF 2023</title>
+      <link>http://localhost:55360/capturetheflag/grains/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/grains/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/grains/feature.png" />
+    </item>
+    
+    <item>
+      <title>Escape Protocols: Get Out Series Reversals – BSidesSF 2023</title>
+      <link>http://localhost:55360/capturetheflag/getoutseries/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/getoutseries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/getoutseries/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Reverse Prophecy: Unraveling the Magic 8 Ball – Flare-On 2022</title>
+      <link>http://localhost:55360/capturetheflag/flareon/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/flareon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/flareon/feature.png" />
+    </item>
+    
+    <item>
+      <title>Decrypting Shadows: Reversing Ransomware from CactusCon&#39;s FunWare</title>
+      <link>http://localhost:55360/capturetheflag/funware/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/funware/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/funware/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

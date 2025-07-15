@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blind Decryption on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/blind-decryption/</link>
+    <description>Recent content in Blind Decryption on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/blind-decryption/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blindspot – SAS CTF 2025</title>
+      <link>http://localhost:55360/capturetheflag/blindspot/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/blindspot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/blindspot/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

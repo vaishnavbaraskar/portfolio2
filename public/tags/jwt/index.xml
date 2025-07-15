@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JWT on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/jwt/</link>
+    <description>Recent content in JWT on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JWT Hunt – Iron CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/ironctf/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/ironctf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/ironctf/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Coffee, Curiosity &amp; an API – JWT &#39;alg:none&#39; Exploit in HealthTrack</title>
+      <link>http://localhost:55360/bugbounty/healthtrack/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/healthtrack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/healthtrack/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "egv5RzBiWR"
+weight = 1
+
+[[main]]
+name = "Bounties"
+pageRef = "BugBounty"
+identifier = "KQZLpBVgWo"
+weight = 2
+
+[[main]]
+name = "CTF"
+pageRef = "CaptureTheFlag"
+identifier = "jpvXJxJKQJ"
+weight = 3
+
+[[main]]
+name = "Binary"
+pageRef = "ReverseEngineering"
+identifier = "yxaBkXgdCl"
+weight = 4
+
+[[footer]]
+none = "none"

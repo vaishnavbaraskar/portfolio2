@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CaptureTheFlags on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/capturetheflag/</link>
+    <description>Recent content in CaptureTheFlags on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/capturetheflag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blindspot – SAS CTF 2025</title>
+      <link>http://localhost:55360/capturetheflag/blindspot/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/blindspot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/blindspot/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>APISEC-CON CTF – Exception Excavation &amp; Render Bender</title>
+      <link>http://localhost:55360/capturetheflag/apisec/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/apisec/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/apisec/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Entropy Overload — Bcrypt Length Limits in &#39;Entropyyyy…&#39; (1753 CTF 2025)</title>
+      <link>http://localhost:55360/capturetheflag/entropy/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/entropy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/entropy/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>PointerOverflow CTF 2024 – DF</title>
+      <link>http://localhost:55360/capturetheflag/pointeroverflow/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/pointeroverflow/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/pointeroverflow/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>JWT Hunt – Iron CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/ironctf/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/ironctf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/ironctf/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Binary Badlands – HTB University CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/binarybandlands/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/binarybandlands/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/binarybandlands/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>ZKPoF – HITCON CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/zkpof/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/zkpof/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/zkpof/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>One by One – LA CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/onebyone/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/onebyone/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/onebyone/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hard Forensics – BlackHat MEA Quals 2023</title>
+      <link>http://localhost:55360/capturetheflag/forensics/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/forensics/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/forensics/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Delegatecall Drains &amp; Solidity Sleight — Paradigm CTF 2023</title>
+      <link>http://localhost:55360/capturetheflag/grains/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/grains/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/grains/feature.png" />
+    </item>
+    
+    <item>
+      <title>Encrypted Mail – DUCTF 2023</title>
+      <link>http://localhost:55360/capturetheflag/encryptedmail/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/encryptedmail/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/encryptedmail/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>NahamCon CTF 2023 – Multiple Challenges</title>
+      <link>http://localhost:55360/capturetheflag/nahamcon/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/nahamcon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/nahamcon/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Escape Protocols: Get Out Series Reversals – BSidesSF 2023</title>
+      <link>http://localhost:55360/capturetheflag/getoutseries/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/getoutseries/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/getoutseries/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Reverse Prophecy: Unraveling the Magic 8 Ball – Flare-On 2022</title>
+      <link>http://localhost:55360/capturetheflag/flareon/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/flareon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/flareon/feature.png" />
+    </item>
+    
+    <item>
+      <title>Decrypting Shadows: Reversing Ransomware from CactusCon&#39;s FunWare</title>
+      <link>http://localhost:55360/capturetheflag/funware/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/funware/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/funware/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

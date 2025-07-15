@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/php/</link>
+    <description>Recent content in PHP on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Entropy Overload — Bcrypt Length Limits in &#39;Entropyyyy…&#39; (1753 CTF 2025)</title>
+      <link>http://localhost:55360/capturetheflag/entropy/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/entropy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/entropy/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

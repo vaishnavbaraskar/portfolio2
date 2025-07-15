@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF 2024 on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/ctf-2024/</link>
+    <description>Recent content in CTF 2024 on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/ctf-2024/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PointerOverflow CTF 2024 – DF</title>
+      <link>http://localhost:55360/capturetheflag/pointeroverflow/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/pointeroverflow/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/pointeroverflow/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>JWT Hunt – Iron CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/ironctf/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/ironctf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/ironctf/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Binary Badlands – HTB University CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/binarybandlands/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/binarybandlands/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/binarybandlands/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>ZKPoF – HITCON CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/zkpof/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/zkpof/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/zkpof/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>One by One – LA CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/onebyone/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/onebyone/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/onebyone/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

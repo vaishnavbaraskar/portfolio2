@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Security on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/web-security/</link>
+    <description>Recent content in Web Security on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/web-security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JWT Hunt – Iron CTF 2024</title>
+      <link>http://localhost:55360/capturetheflag/ironctf/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/capturetheflag/ironctf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/capturetheflag/ironctf/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>The Anatomy of a Clickjacking Vulnerability: A Trello Deep Dive</title>
+      <link>http://localhost:55360/bugbounty/trello/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/trello/</guid>
+      <description>An exploration of a clickjacking vulnerability found in Trello&amp;rsquo;s public boards, examining the technical details, potential impacts, and broader security lessons about proper header configurations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/trello/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>&#34;PetCare&#34; – CSRF in the Admin Panel: When One Click Made You an Admin</title>
+      <link>http://localhost:55360/bugbounty/petcare/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/petcare/</guid>
+      <description>A simple POST request without CSRF protection allowed me to trick a PetCare admin into granting me admin privileges. This writeup dives into the exploitation steps, mental process, root cause, and patching of a high-risk vulnerability in their internal panel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/petcare/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

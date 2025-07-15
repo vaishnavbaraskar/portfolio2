@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BugBounties on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/bugbounty/</link>
+    <description>Recent content in BugBounties on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/bugbounty/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Phantom Subdomain: How I Found Slack’s Forgotten Backdoor</title>
+      <link>http://localhost:55360/bugbounty/slack/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/slack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/slack/feature.png" />
+    </item>
+    
+    <item>
+      <title>3 AM &amp; Phantom Requests: My Blind SSRF Journey Through Shopify&#39;s PDF Underworld</title>
+      <link>http://localhost:55360/bugbounty/shopify/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/shopify/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/shopify/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Coffee, Curiosity &amp; an API – JWT &#39;alg:none&#39; Exploit in HealthTrack</title>
+      <link>http://localhost:55360/bugbounty/healthtrack/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/healthtrack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/healthtrack/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>LocalNews and the Whispering Header - SQLi in a Forgotten Log</title>
+      <link>http://localhost:55360/bugbounty/localnews/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/localnews/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/localnews/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>The Anatomy of a Clickjacking Vulnerability: A Trello Deep Dive</title>
+      <link>http://localhost:55360/bugbounty/trello/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/trello/</guid>
+      <description>An exploration of a clickjacking vulnerability found in Trello&amp;rsquo;s public boards, examining the technical details, potential impacts, and broader security lessons about proper header configurations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/trello/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>TaskMaster – How an Avatar Became a Cookie Monster</title>
+      <link>http://localhost:55360/bugbounty/taskmaster/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/taskmaster/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/taskmaster/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Silent Payloads: DOM-Based XSS in PayPal’s Checkout</title>
+      <link>http://localhost:55360/bugbounty/paypal/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/paypal/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/paypal/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>12:57 AM and a Concurrency Fault: How I Exploited Uber’s Coupon Redemption Logic</title>
+      <link>http://localhost:55360/bugbounty/uber/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/uber/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/uber/feature.png" />
+    </item>
+    
+    <item>
+      <title>Broken Authentication: Uncovering Twitter&#39;s OAuth Vulnerability</title>
+      <link>http://localhost:55360/bugbounty/twitter/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/twitter/</guid>
+      <description>A technical deep dive into an authentication vulnerability in Twitter&amp;rsquo;s legacy API that allowed bypassing signature validation, exposing user data through inconsistent OAuth enforcement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/twitter/feature.png" />
+    </item>
+    
+    <item>
+      <title>&#34;PetCare&#34; – CSRF in the Admin Panel: When One Click Made You an Admin</title>
+      <link>http://localhost:55360/bugbounty/petcare/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/petcare/</guid>
+      <description>A simple POST request without CSRF protection allowed me to trick a PetCare admin into granting me admin privileges. This writeup dives into the exploitation steps, mental process, root cause, and patching of a high-risk vulnerability in their internal panel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/petcare/feature.png" />
+    </item>
+    
+    <item>
+      <title>Curiosity &amp; file_id=187: My First Bug Bounty Journey with FileSharePro</title>
+      <link>http://localhost:55360/bugbounty/filesharepro/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/bugbounty/filesharepro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/bugbounty/filesharepro/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>

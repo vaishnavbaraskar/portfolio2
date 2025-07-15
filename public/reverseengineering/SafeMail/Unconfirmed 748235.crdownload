@@ -1,0 +1,101 @@
+## 1. Misaligned Heap Write in SafeMail Attachment Parser (x86)
+
+**Platform:** Windows 10 x86  
+**Target:** SafeMail Desktop Client  
+**Discovered:** Jan 2024
+
+---
+
+### 🔍 Overview
+
+While reversing the SafeMail desktop binary, I zoomed in on how it handles email attachments—specifically the filenames.  
+Turns out, their parser copied user-controlled data directly into heap-allocated buffers without caring about alignment.  
+Yeah... the classic `rep movsb` + unchecked input length combo. Not pretty.
+
+This unaligned heap write ended up corrupting adjacent heap chunk metadata. That laid the groundwork for a use-after-free condition.
+
+---
+
+### 🧠 Root Cause
+
+Filenames were blindly copied to a heap buffer using `rep movsb`. Since the code didn’t ensure alignment, a filename with a specific length caused a misaligned copy. This didn’t crash right away, but it trashed heap metadata just enough to destabilize later malloc/free behavior.
+
+Disassembly snapshot:
+
+```asm
+.text:00411000 parse_filename:
+    mov     eax, [ebp+arg_0]    ; length of user-controlled filename
+    lea     edi, [heap_buffer]  ; destination in the heap
+    lea     esi, [user_input]   ; attacker-controlled buffer
+    rep     movsb               ; unaligned byte-wise copy
+```
+
+The heap chunk just past this buffer gets clipped or extended, depending on the filename length. Under the hood, Windows’ low-fragmentation heap allocator (LFH) does some lazy coalescing. That gave me a tiny window to play with the corrupted chunk before free() or coalesce() cleaned it up.
+
+---
+
+### 🎯 Exploitation Strategy
+
+I didn’t go full `grooming + fake vtable` on this one—too noisy. Instead, I:
+
+1. Crafted a long filename with specific byte patterns to misalign the next chunk.
+2. Freed that chunk through a secondary thread’s cleanup routine.
+3. Got a dangling pointer reused in the `save_attachment()` flow.
+
+That dangling pointer pointed to my controlled buffer.
+
+---
+
+### 💣 Shellcode Stage
+
+The shellcode I injected was compact—just enough to pop calc.exe through the WinExec syscall.
+
+
+```asm
+xor     eax, eax
+mov     al, 0x50              ; syscall index for WinExec
+lea     ebx, [esp+20]         ; pointer to "calc.exe"
+call    WinExec
+```
+
+Filename buffer:
+
+```c
+char* filename = "A...A\x90\x90\xEB\x04\xCC...calc.exe\x00";
+```
+
+That payload got written into a predictable offset in the heap via `rep movsb`, and my dangling pointer got used shortly after in a `memcpy()` during the attachment-save step.
+
+---
+
+### 🧬 Additional Debug Notes
+
+- The vulnerability is heap allocator dependent. It was unstable on Windows 11 due to hardened LFH behavior.
+- I used PageHeap + Application Verifier + WinDbg with `!heap -p -a` to trace corruption.
+- Spraying multiple filenames in quick succession forced the layout I wanted.
+- The crash was initially non-deterministic until I pinned down the race window.
+
+---
+
+### 🧷 Mitigation Suggestions
+
+- Don’t use `rep movsb` with user-controlled data unless you validate length and alignment.
+- Add bounds checks before heap copies.
+- Consider using safer string APIs like `strncpy_s()` or `memcpy_s()`.
+- Enable heap metadata checks and page-level heap isolation in debug builds.
+
+---
+
+### 📎 Personal Notes
+
+Kinda funny how this started because I was curious how attachments are saved in email clients.  
+Didn’t expect to land a low-level heap bug, but here we are. Reverse engineering legacy desktop clients is still a goldmine.
+
+If this was CTF, it'd be a mid-tier pwn with a twist of heap internals.
+
+---
+
+**Status:** Not reported – target doesn’t have a bounty program.  
+**CVSS (est):** 7.8 (High) – Use-after-free with potential for RCE
+
+---

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows X64 on Vaishnav Baraskar</title>
+    <link>http://localhost:55360/tags/windows-x64/</link>
+    <description>Recent content in Windows X64 on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55360/tags/windows-x64/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Copy, Paste, Exploit: Buffer Overflow in EduGrade Import Engine</title>
+      <link>http://localhost:55360/reverseengineering/edugrade/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/edugrade/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/edugrade/feature.png" />
+    </item>
+    
+    <item>
+      <title>Strings Unleashed: Unsafe Length Handling in BookPro Reader</title>
+      <link>http://localhost:55360/reverseengineering/bookpro/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/bookpro/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/bookpro/feature.png" />
+    </item>
+    
+    <item>
+      <title>Racing the Kernel: Use-After-Free in SnapBackup.sys</title>
+      <link>http://localhost:55360/reverseengineering/snapbackup/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/snapbackup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/snapbackup/feature.png" />
+    </item>
+    
+    <item>
+      <title>Stacking Bytes: Heap Overflow in PrintSecure’s Spooler</title>
+      <link>http://localhost:55360/reverseengineering/printsecure/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/printsecure/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/printsecure/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Overflowing Authority: Stack Smash in LocalAdminTool.exe</title>
+      <link>http://localhost:55360/reverseengineering/localadmintool/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/localadmintool/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/localadmintool/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Signed to Compromise: Kernel Overflow in XLogDriver.sys</title>
+      <link>http://localhost:55360/reverseengineering/xlogdriver/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/xlogdriver/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/xlogdriver/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Signed Once, Loaded Twice: Plugin Signature Bypass in CodeWorks IDE</title>
+      <link>http://localhost:55360/reverseengineering/codeworks/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55360/reverseengineering/codeworks/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55360/reverseengineering/codeworks/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>

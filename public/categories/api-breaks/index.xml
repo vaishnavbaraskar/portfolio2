@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Breaks on Vaishnav Baraskar</title>
+    <link>http://localhost:1313/categories/api-breaks/</link>
+    <description>Recent content in API Breaks on Vaishnav Baraskar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Vaishnav Baraskar</copyright>
+    <lastBuildDate>Tue, 13 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/api-breaks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Midnight Coupon Madness: Breaking Uber&#39;s Redemption System</title>
+      <link>http://localhost:1313/bugbounty/uber/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/bugbounty/uber/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
